@@ -57,10 +57,10 @@ SD card root/
 1. Insert the SD card into the camera.
 2. Power on the camera.
 3. Wait approximately 60 seconds.
-4. Remove the SD card and hard reboot the camera
-5. Telnet into the camera using:
+4. Telnet into the camera using:
    - Username: `camera`
    - Password: `system`
+
 
 ---
 
