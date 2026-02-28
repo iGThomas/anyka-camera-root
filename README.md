@@ -37,9 +37,9 @@ Your SD card should look exactly like this:
 SD card root/
 └── ak_wifi_test_ap/
     ├── setup.sh
-    ├── hostapd        <- emtpy file
-    ├── hostapd.conf   <- empty file
-    └── udhcpd.conf    <- empty file
+    ├── hostapd        (empty file)
+    ├── hostapd.conf   (empty file)
+    └── udhcpd.conf    (empty file)
 
 ⚠️ The three empty files are mandatory. Do not remove them.
 
